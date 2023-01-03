@@ -1,0 +1,1 @@
+{"properties":{"gmsaCredentialSpec":{"title":"gmsaCredentialSpec","type":"string"},"gmsaCredentialSpecName":{"title":"gmsaCredentialSpecName","type":"string"},"runAsUserName":{"title":"runAsUserName","type":"string"}},"title":"core_v1_WindowsSecurityContextOptions","type":"object","description":"WindowsSecurityContextOptions contain Windows-specific options and credentials."}

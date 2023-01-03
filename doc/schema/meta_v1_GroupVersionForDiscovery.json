@@ -1,0 +1,1 @@
+{"properties":{"groupVersion":{"title":"groupVersion","type":"string"},"version":{"title":"version","type":"string"}},"title":"meta_v1_GroupVersionForDiscovery","type":"object","description":"GroupVersion contains the \"group/version\" and \"version\" string of a version. It is made a struct to keep extensibility."}

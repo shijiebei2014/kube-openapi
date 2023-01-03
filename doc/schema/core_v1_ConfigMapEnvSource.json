@@ -1,0 +1,1 @@
+{"properties":{"name":{"title":"name","type":"string"},"optional":{"title":"optional","type":"boolean"}},"title":"core_v1_ConfigMapEnvSource","type":"object","description":"ConfigMapEnvSource selects a ConfigMap to populate the environment variables with.\n\nThe contents of the target ConfigMap's Data field will represent the key-value pairs as environment variables."}

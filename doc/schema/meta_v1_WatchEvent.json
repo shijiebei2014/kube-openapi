@@ -1,0 +1,1 @@
+{"properties":{"object":{"title":"object","type":"object"},"type":{"title":"type","type":"string"}},"title":"meta_v1_WatchEvent","type":"object","description":"Event represents a single event to a watched resource."}

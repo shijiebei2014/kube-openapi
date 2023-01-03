@@ -1,0 +1,1 @@
+{"properties":{"resourceVersion":{"title":"resourceVersion","type":"string"},"uid":{"title":"uid","type":"string"}},"title":"meta_v1_Preconditions","type":"object","description":"Preconditions must be fulfilled before an operation (update, delete, etc.) is carried out."}

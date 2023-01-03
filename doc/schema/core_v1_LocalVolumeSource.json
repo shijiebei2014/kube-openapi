@@ -1,0 +1,1 @@
+{"properties":{"fsType":{"title":"fsType","type":"string"},"path":{"title":"path","type":"string"}},"title":"core_v1_LocalVolumeSource","type":"object","description":"Local represents directly-attached storage with node affinity (Beta feature)"}

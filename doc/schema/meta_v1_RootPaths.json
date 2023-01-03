@@ -1,0 +1,1 @@
+{"properties":{"paths":{"title":"paths","type":"array","items":{"properties":{}}}},"title":"meta_v1_RootPaths","type":"object","description":"RootPaths lists the paths available at root. For example: \"/healthz\", \"/apis\"."}

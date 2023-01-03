@@ -1,0 +1,1 @@
+{"properties":{"path":{"title":"path","type":"string"},"readOnly":{"title":"readOnly","type":"boolean"},"server":{"title":"server","type":"string"}},"title":"core_v1_NFSVolumeSource","type":"object","description":"Represents an NFS mount that lasts the lifetime of a pod. NFS volumes do not support ownership management or SELinux relabeling."}

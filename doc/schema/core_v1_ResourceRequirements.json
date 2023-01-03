@@ -1,0 +1,1 @@
+{"properties":{"limits":{"title":"limits","type":"object"},"requests":{"title":"requests","type":"object"}},"title":"core_v1_ResourceRequirements","type":"object","description":"ResourceRequirements describes the compute resource requirements."}

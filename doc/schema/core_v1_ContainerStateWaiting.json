@@ -1,0 +1,1 @@
+{"properties":{"message":{"title":"message","type":"string"},"reason":{"title":"reason","type":"string"}},"title":"core_v1_ContainerStateWaiting","type":"object","description":"ContainerStateWaiting is a waiting state of a container."}

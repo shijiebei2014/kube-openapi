@@ -1,0 +1,1 @@
+{"properties":{"name":{"title":"name","type":"string"},"value":{"title":"value","type":"string"}},"title":"core_v1_HTTPHeader","type":"object","description":"HTTPHeader describes a custom header to be used in HTTP probes"}

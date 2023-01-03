@@ -1,0 +1,1 @@
+{"properties":{"group":{"title":"group","type":"string"},"version":{"title":"version","type":"string"}},"title":"meta_v1_GroupVersion","type":"object","description":"GroupVersion contains the \"group\" and the \"version\", which uniquely identifies the API."}

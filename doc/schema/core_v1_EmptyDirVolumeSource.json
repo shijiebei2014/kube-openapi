@@ -1,0 +1,1 @@
+{"properties":{"medium":{"title":"medium","type":"string"},"sizeLimit":{"title":"sizeLimit","type":"object"}},"title":"core_v1_EmptyDirVolumeSource","type":"object","description":"Represents an empty directory for a pod. Empty directory volumes support ownership management and SELinux relabeling."}

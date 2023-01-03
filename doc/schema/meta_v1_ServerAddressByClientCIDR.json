@@ -1,0 +1,1 @@
+{"properties":{"clientCIDR":{"title":"clientCIDR","type":"string"},"serverAddress":{"title":"serverAddress","type":"string"}},"title":"meta_v1_ServerAddressByClientCIDR","type":"object","description":"ServerAddressByClientCIDR helps the client to determine the server address that they should use, depending on the clientCIDR that they match."}

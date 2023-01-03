@@ -1,0 +1,1 @@
+{"properties":{"fsType":{"title":"fsType","type":"string"},"storagePolicyID":{"title":"storagePolicyID","type":"string"},"storagePolicyName":{"title":"storagePolicyName","type":"string"},"volumePath":{"title":"volumePath","type":"string"}},"title":"core_v1_VsphereVirtualDiskVolumeSource","type":"object","description":"Represents a vSphere volume resource."}

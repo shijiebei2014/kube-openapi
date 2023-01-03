@@ -1,0 +1,1 @@
+{"properties":{"name":{"title":"name","type":"string"},"value":{"title":"value","type":"string"}},"title":"core_v1_PodDNSConfigOption","type":"object","description":"PodDNSConfigOption defines DNS resolver options of a pod."}

@@ -1,0 +1,1 @@
+{"properties":{"hard":{"title":"hard","type":"object"},"used":{"title":"used","type":"object"}},"title":"core_v1_ResourceQuotaStatus","type":"object","description":"ResourceQuotaStatus defines the enforced hard limits and observed use."}

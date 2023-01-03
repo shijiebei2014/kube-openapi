@@ -1,0 +1,1 @@
+{"properties":{"key":{"title":"key","type":"string"},"mode":{"title":"mode","type":"integer"},"path":{"title":"path","type":"string"}},"title":"core_v1_KeyToPath","type":"object","description":"Maps a string key to a path within a volume."}

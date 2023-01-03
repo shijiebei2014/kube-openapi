@@ -1,0 +1,1 @@
+{"properties":{"containerName":{"title":"containerName","type":"string"},"divisor":{"title":"divisor","type":"object"},"resource":{"title":"resource","type":"string"}},"title":"core_v1_ResourceFieldSelector","type":"object","description":"ResourceFieldSelector represents container resources (cpu, memory) and their output format"}

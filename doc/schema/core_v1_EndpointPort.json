@@ -1,0 +1,1 @@
+{"properties":{"appProtocol":{"title":"appProtocol","type":"string"},"name":{"title":"name","type":"string"},"port":{"title":"port","type":"integer"},"protocol":{"title":"protocol","type":"string"}},"title":"core_v1_EndpointPort","type":"object","description":"EndpointPort is a tuple that describes a single port."}

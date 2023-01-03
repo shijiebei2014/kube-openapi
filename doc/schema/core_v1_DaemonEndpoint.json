@@ -1,0 +1,1 @@
+{"properties":{"Port":{"title":"Port","type":"integer"}},"title":"core_v1_DaemonEndpoint","type":"object","description":"DaemonEndpoint contains information about a single Daemon endpoint."}

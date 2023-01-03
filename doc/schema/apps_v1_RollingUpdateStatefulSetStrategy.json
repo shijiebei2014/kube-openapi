@@ -1,0 +1,1 @@
+{"properties":{"partition":{"title":"partition","type":"integer"}},"title":"apps_v1_RollingUpdateStatefulSetStrategy","type":"object","description":"RollingUpdateStatefulSetStrategy is used to communicate parameter for RollingUpdateStatefulSetStrategyType."}

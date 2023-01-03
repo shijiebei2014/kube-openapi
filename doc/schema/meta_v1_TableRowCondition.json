@@ -1,0 +1,1 @@
+{"properties":{"message":{"title":"message","type":"string"},"reason":{"title":"reason","type":"string"},"status":{"title":"status","type":"string"},"type":{"title":"type","type":"string"}},"title":"meta_v1_TableRowCondition","type":"object","description":"TableRowCondition allows a row to be marked with additional information."}

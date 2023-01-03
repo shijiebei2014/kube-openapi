@@ -1,0 +1,1 @@
+{"properties":{"clientIP":{"title":"clientIP","type":"object","properties":{"timeoutSeconds":{"title":"timeoutSeconds","type":"integer"}}}},"title":"core_v1_SessionAffinityConfig","type":"object","description":"SessionAffinityConfig represents the configurations of session affinity."}

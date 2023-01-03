@@ -1,0 +1,1 @@
+{"properties":{"apiVersion":{"title":"apiVersion","type":"string","const":"meta/v1"},"kind":{"title":"kind","type":"string","const":"GetOptions"},"resourceVersion":{"title":"resourceVersion","type":"string"}},"title":"meta_v1_GetOptions","type":"object","description":"GetOptions is the standard query options to the standard REST get call."}

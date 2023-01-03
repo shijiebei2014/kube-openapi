@@ -1,0 +1,1 @@
+{"properties":{"command":{"title":"command","type":"array","items":{"properties":{}}}},"title":"core_v1_ExecAction","type":"object","description":"ExecAction describes a \"run in container\" action."}

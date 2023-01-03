@@ -1,0 +1,1 @@
+{"properties":{"message":{"title":"message","type":"string"},"phase":{"title":"phase","type":"string"},"reason":{"title":"reason","type":"string"}},"title":"core_v1_PersistentVolumeStatus","type":"object","description":"PersistentVolumeStatus is the current status of a persistent volume."}

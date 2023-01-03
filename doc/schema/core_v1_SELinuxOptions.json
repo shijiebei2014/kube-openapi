@@ -1,0 +1,1 @@
+{"properties":{"level":{"title":"level","type":"string"},"role":{"title":"role","type":"string"},"type":{"title":"type","type":"string"},"user":{"title":"user","type":"string"}},"title":"core_v1_SELinuxOptions","type":"object","description":"SELinuxOptions are the labels to be applied to the container"}

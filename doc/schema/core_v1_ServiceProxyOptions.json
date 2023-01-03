@@ -1,0 +1,1 @@
+{"properties":{"apiVersion":{"title":"apiVersion","type":"string","const":"core/v1"},"kind":{"title":"kind","type":"string","const":"ServiceProxyOptions"},"path":{"title":"path","type":"string"}},"title":"core_v1_ServiceProxyOptions","type":"object","description":"ServiceProxyOptions is the query options to a Service's proxy call."}

@@ -1,0 +1,1 @@
+{"properties":{"finalizers":{"title":"finalizers","type":"array","items":{"properties":{}}}},"title":"core_v1_NamespaceSpec","type":"object","description":"NamespaceSpec describes the attributes on a Namespace."}

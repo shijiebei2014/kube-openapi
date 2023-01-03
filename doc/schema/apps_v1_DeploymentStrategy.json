@@ -1,0 +1,1 @@
+{"properties":{"rollingUpdate":{"title":"rollingUpdate","type":"object","properties":{"maxSurge":{"title":"maxSurge","type":"object"},"maxUnavailable":{"title":"maxUnavailable","type":"object"}}},"type":{"title":"type","type":"string"}},"title":"apps_v1_DeploymentStrategy","type":"object","description":"DeploymentStrategy describes how to replace existing pods with new ones."}

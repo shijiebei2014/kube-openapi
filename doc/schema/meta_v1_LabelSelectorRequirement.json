@@ -1,0 +1,1 @@
+{"properties":{"key":{"title":"key","type":"string"},"operator":{"title":"operator","type":"string"},"values":{"title":"values","type":"array","items":{"properties":{}}}},"title":"meta_v1_LabelSelectorRequirement","type":"object","description":"A label selector requirement is a selector that contains values, a key, and an operator that relates the key and values."}

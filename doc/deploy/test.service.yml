@@ -1,0 +1,8 @@
+apiVersion: core/v1
+kind: Service
+metadata:
+  name: test
+spec:
+  ports:
+    - name: 123
+

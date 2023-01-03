@@ -1,0 +1,1 @@
+{"properties":{"timeoutSeconds":{"title":"timeoutSeconds","type":"integer"}},"title":"core_v1_ClientIPConfig","type":"object","description":"ClientIPConfig represents the configurations of Client IP based session affinity."}

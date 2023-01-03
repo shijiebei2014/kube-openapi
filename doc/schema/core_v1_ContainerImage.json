@@ -1,0 +1,1 @@
+{"properties":{"names":{"title":"names","type":"array","items":{"properties":{}}},"sizeBytes":{"title":"sizeBytes","type":"integer"}},"title":"core_v1_ContainerImage","type":"object","description":"Describe a container image"}

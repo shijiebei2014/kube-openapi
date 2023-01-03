@@ -1,0 +1,1 @@
+{"properties":{"apiVersion":{"title":"apiVersion","type":"string","const":"meta/v1"},"includeObject":{"title":"includeObject","type":"string"},"kind":{"title":"kind","type":"string","const":"TableOptions"}},"title":"meta_v1_TableOptions","type":"object","description":"TableOptions are used when a Table is requested by the caller."}

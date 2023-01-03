@@ -1,0 +1,1 @@
+{"properties":{"localhostProfile":{"title":"localhostProfile","type":"string"},"type":{"title":"type","type":"string"}},"title":"core_v1_SeccompProfile","type":"object","description":"SeccompProfile defines a pod/container's seccomp profile settings. Only one profile source may be set."}

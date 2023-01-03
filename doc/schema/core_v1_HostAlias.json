@@ -1,0 +1,1 @@
+{"properties":{"hostnames":{"title":"hostnames","type":"array","items":{"properties":{}}},"ip":{"title":"ip","type":"string"}},"title":"core_v1_HostAlias","type":"object","description":"HostAlias holds the mapping between IP and hostnames that will be injected as an entry in the pod's hosts file."}

@@ -1,0 +1,1 @@
+{"properties":{"maxSurge":{"title":"maxSurge","type":"object"},"maxUnavailable":{"title":"maxUnavailable","type":"object"}},"title":"apps_v1_RollingUpdateDeployment","type":"object","description":"Spec to control the desired behavior of rolling update."}

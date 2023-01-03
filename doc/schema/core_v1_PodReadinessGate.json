@@ -1,0 +1,1 @@
+{"properties":{"conditionType":{"title":"conditionType","type":"string"}},"title":"core_v1_PodReadinessGate","type":"object","description":"PodReadinessGate contains the reference to a pod condition"}

@@ -1,0 +1,1 @@
+{"properties":{"group":{"title":"group","type":"string"},"kind":{"title":"kind","type":"string","const":"GroupKind"}},"title":"meta_v1_GroupKind","type":"object","description":"GroupKind specifies a Group and a Kind, but does not force a version.  This is useful for identifying concepts during lookup stages without having partially valid types"}

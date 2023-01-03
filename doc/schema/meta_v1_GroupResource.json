@@ -1,0 +1,1 @@
+{"properties":{"group":{"title":"group","type":"string"},"resource":{"title":"resource","type":"string"}},"title":"meta_v1_GroupResource","type":"object","description":"GroupResource specifies a Group and a Resource, but does not force a version.  This is useful for identifying concepts during lookup stages without having partially valid types"}

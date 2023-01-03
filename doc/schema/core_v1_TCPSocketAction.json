@@ -1,0 +1,1 @@
+{"properties":{"host":{"title":"host","type":"string"},"port":{"title":"port","type":"object"}},"title":"core_v1_TCPSocketAction","type":"object","description":"TCPSocketAction describes an action based on opening a socket"}

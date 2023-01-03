@@ -1,0 +1,1 @@
+{"properties":{"readOnly":{"title":"readOnly","type":"boolean"},"secretName":{"title":"secretName","type":"string"},"shareName":{"title":"shareName","type":"string"}},"title":"core_v1_AzureFileVolumeSource","type":"object","description":"AzureFile represents an Azure File Service mount on the host and bind mount to the pod."}

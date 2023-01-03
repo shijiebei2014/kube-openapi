@@ -1,0 +1,1 @@
+{"properties":{"path":{"title":"path","type":"string"},"type":{"title":"type","type":"string"}},"title":"core_v1_HostPathVolumeSource","type":"object","description":"Represents a host path mapped into a pod. Host path volumes do not support ownership management or SELinux relabeling."}

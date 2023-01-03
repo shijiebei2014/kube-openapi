@@ -1,0 +1,1 @@
+{"properties":{"kubeletEndpoint":{"title":"kubeletEndpoint","type":"object","properties":{"Port":{"title":"Port","type":"integer"}}}},"title":"core_v1_NodeDaemonEndpoints","type":"object","description":"NodeDaemonEndpoints lists ports opened by daemons running on the Node."}

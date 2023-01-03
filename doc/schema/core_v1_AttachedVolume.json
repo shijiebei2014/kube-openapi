@@ -1,0 +1,1 @@
+{"properties":{"devicePath":{"title":"devicePath","type":"string"},"name":{"title":"name","type":"string"}},"title":"core_v1_AttachedVolume","type":"object","description":"AttachedVolume describes a volume attached to a node"}

@@ -1,0 +1,1 @@
+{"properties":{"devicePath":{"title":"devicePath","type":"string"},"name":{"title":"name","type":"string"}},"title":"core_v1_VolumeDevice","type":"object","description":"volumeDevice describes a mapping of a raw block device within a container."}

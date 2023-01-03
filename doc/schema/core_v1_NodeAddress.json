@@ -1,0 +1,1 @@
+{"properties":{"address":{"title":"address","type":"string"},"type":{"title":"type","type":"string"}},"title":"core_v1_NodeAddress","type":"object","description":"NodeAddress contains information for the node's address."}

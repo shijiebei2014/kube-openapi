@@ -1,0 +1,1 @@
+{"properties":{"Object":{"title":"Object","type":"object"},"Type":{"title":"Type","type":"string"}},"title":"meta_v1_InternalEvent","type":"object","description":"InternalEvent makes watch.Event versioned"}

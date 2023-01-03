@@ -1,0 +1,1 @@
+{"properties":{"nanos":{"title":"nanos","type":"integer"},"seconds":{"title":"seconds","type":"integer"}},"title":"meta_v1_Timestamp","type":"object","description":"Timestamp is a struct that is equivalent to Time, but intended for protobuf marshalling/unmarshalling. It is generated into a serialization that matches Time. Do not use in Go structs."}

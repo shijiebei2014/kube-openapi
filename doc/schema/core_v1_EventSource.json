@@ -1,0 +1,1 @@
+{"properties":{"component":{"title":"component","type":"string"},"host":{"title":"host","type":"string"}},"title":"core_v1_EventSource","type":"object","description":"EventSource contains information for an event."}

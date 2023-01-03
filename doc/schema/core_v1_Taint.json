@@ -1,0 +1,1 @@
+{"properties":{"effect":{"title":"effect","type":"string"},"key":{"title":"key","type":"string"},"timeAdded":{"title":"timeAdded","type":"object"},"value":{"title":"value","type":"string"}},"title":"core_v1_Taint","type":"object","description":"The node this Taint is attached to has the \"effect\" on any pod that does not tolerate the Taint."}

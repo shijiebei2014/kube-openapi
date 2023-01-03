@@ -1,0 +1,1 @@
+{"properties":{"Capacity":{"title":"Capacity","type":"object"}},"title":"core_v1_NodeResources","type":"object","description":"NodeResources is an object for conveying resource information about a node. see https://kubernetes.io/docs/concepts/architecture/nodes/#capacity for more details."}

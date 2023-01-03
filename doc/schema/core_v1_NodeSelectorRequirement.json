@@ -1,0 +1,1 @@
+{"properties":{"key":{"title":"key","type":"string"},"operator":{"title":"operator","type":"string"},"values":{"title":"values","type":"array","items":{"properties":{}}}},"title":"core_v1_NodeSelectorRequirement","type":"object","description":"A node selector requirement is a selector that contains values, a key, and an operator that relates the key and values."}
